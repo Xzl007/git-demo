@@ -9,5 +9,6 @@ public class gitDemo {
         System.out.println("master branch Conflict merge");
         System.out.println("hot-fix branch conflict merge");
         System.out.println("github https push test1");
+        System.out.println("github https pull test2");
     }
 }
