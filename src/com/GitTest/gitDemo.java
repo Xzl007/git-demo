@@ -6,5 +6,6 @@ public class gitDemo {
         System.out.println("second test");
         System.out.println("hot-fix branch test");
         System.out.println("hot-fix branch test2");
+        System.out.println("master branch Conflict merge");
     }
 }
